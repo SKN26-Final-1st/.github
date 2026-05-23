@@ -3,7 +3,7 @@
 > **3차 PICKLE** · **4차 LG Home** 을 함께 완수한 6인 팀이, 파이널 프로젝트로 이어갑니다.
 
 <p align="center">
-  <img src="../img/team_profile.png" alt="육뚝이들 팀 프로필" width="100%" />
+  <img src="../img/team_profile2.png" alt="육뚝이들 팀 프로필" width="100%" />
 </p>
 
 <p align="center"><strong>"오늘도 데굴데굴 생존 중"</strong></p>
