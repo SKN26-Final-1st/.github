@@ -3,7 +3,7 @@
 > **3차 PICKLE** · **4차 LG Home** 을 함께 완수한 6인 팀이, 파이널 프로젝트로 이어갑니다.
 
 <p align="center">
-  <img src="../img/team_profile2.png" alt="육뚝이들 팀 프로필" width="100%" />
+  <img src="../img/team/team_profile2.png" alt="육뚝이들 팀 프로필" width="100%" />
 </p>
 
 <p align="center"><strong>"오늘도 데굴데굴 생존 중"</strong></p>
@@ -15,27 +15,27 @@
 <table width="100%" cellpadding="14" cellspacing="0" style="border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td align="center" valign="middle" width="16.67%" style="line-height: 1.6;">
-      <img src="../img/tiger.png" width="110" /><br />
+      <img src="../img/team/tiger.png" width="110" /><br />
       <b>박기은</b>
     </td>
     <td align="center" valign="middle" width="16.67%" style="line-height: 1.6;">
-      <img src="../img/bear.png" width="110" /><br />
+      <img src="../img/team/bear.png" width="110" /><br />
       <b>서민혁</b>
     </td>
     <td align="center" valign="middle" width="16.67%" style="line-height: 1.6;">
-      <img src="../img/fox.png" width="110" /><br />
+      <img src="../img/team/fox.png" width="110" /><br />
       <b>유동현</b>
     </td>
     <td align="center" valign="middle" width="16.67%" style="line-height: 1.6;">
-      <img src="../img/squirrel.png" width="110" /><br />
+      <img src="../img/team/squirrel.png" width="110" /><br />
       <b>윤정연</b>
     </td>
     <td align="center" valign="middle" width="16.67%" style="line-height: 1.6;">
-      <img src="../img/dog.png" width="110" /><br />
+      <img src="../img/team/dog.png" width="110" /><br />
       <b>이레</b>
     </td>
     <td align="center" valign="middle" width="16.67%" style="line-height: 1.6;">
-      <img src="../img/cat.png" width="110" /><br />
+      <img src="../img/team/cat.png" width="110" /><br />
       <b>정영일</b>
     </td>
   </tr>
